@@ -1,0 +1,5 @@
+These codes are used for get latest grades from uims.jlu.edu.cn or cjcx.jlu.edu.cn. 
+The basement modules shall be runed firstly to create a couse-list contain the courses you want to get, as well as a credit list.
+Then course-list and credit list shall be copy to the full module and get all individuals grades.
+The resourse of the full module is from a csv file. Every line is started like 79171301,123456 as the account and password to login in.
+The codes are permitted to use in official way.
